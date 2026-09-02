@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Autonomous Robot](https://github.com/sumit961103/Autonomous-Robot.git)
 
-- 🌱 I’m currently learning **Computer Vision and Model training**
+- 🌱 I’m currently learning **Generative AI/LLM and Operational Research**
 
 - 💬 Ask me about **GSV@Vadodara**
 
