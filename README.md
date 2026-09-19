@@ -107,19 +107,7 @@ class Sumit:
 
 <br>
 
-<div align="center">
 
-<h2>🌱 Currently Learning</h2>
-
-<img src="https://img.shields.io/badge/Generative_AI-0D1117?style=flat-square&logo=openai&logoColor=BC8CFF&labelColor=161B22" alt="Generative AI"/>
-<img src="https://img.shields.io/badge/LLMs-0D1117?style=flat-square&logo=huggingface&logoColor=FFD21E&labelColor=161B22" alt="LLMs"/>
-<img src="https://img.shields.io/badge/Computer_Vision-0D1117?style=flat-square&logo=opencv&logoColor=5C3EE8&labelColor=161B22" alt="Computer Vision"/>
-<img src="https://img.shields.io/badge/Operational_Research-0D1117?style=flat-square&logo=probot&logoColor=3FB950&labelColor=161B22" alt="Operational Research"/>
-<img src="https://img.shields.io/badge/Intelligent_Systems-0D1117?style=flat-square&logo=databricks&logoColor=FF3621&labelColor=161B22" alt="Intelligent Systems"/>
-
-</div>
-
-<br>
 
 <div align="center">
 
