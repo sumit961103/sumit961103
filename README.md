@@ -103,35 +103,7 @@ Vadodara, Gujarat 🇮🇳
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!--                     CURRENT WORK                              -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2>🔭 Currently Working On</h2>
-
-<a href="https://github.com/sumit961103/Autonomous-Robot">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sumit961103&repo=Autonomous-Robot&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950" alt="Autonomous Robot Repository"/>
-
-</a>
-
-<br><br>
-
-<p>
-
-🤖 <b>Autonomous Robot</b>
-
-<br><br>
-
-Working on intelligent systems involving <b>Computer Vision • Machine Learning • Autonomous Decision Making</b>
-
-</p>
-
-<br>
-
----
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
