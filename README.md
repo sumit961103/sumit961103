@@ -94,18 +94,14 @@ class Sumit:
 
 <h2>🛠️ Tech Stack</h2>
 
-<b>Languages</b><br><br>
-<img src="https://skillicons.dev/icons?i=python,c,java,mysql&theme=dark" alt="Languages"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,c,java,mysql,pytorch,opencv&theme=dark" alt="Python, C, Java, MySQL, PyTorch, OpenCV" align="middle"/>
+<img src="https://cdn.simpleicons.org/pandas/E70488" width="40" height="40" alt="Pandas" align="middle"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/numpy/4DABCF" width="40" height="40" alt="NumPy" align="middle"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, VS Code" align="middle"/>
+</p>
 
-<br><br>
-
-<b>AI / ML & Data</b><br><br>
-<img src="https://skillicons.dev/icons?i=pytorch,opencv,pandas,numpy&theme=dark" alt="AI and ML"/>
-
-<br><br>
-
-<b>Tools</b><br><br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools"/>
+<sub>Python · C · Java · MySQL · PyTorch · OpenCV · Pandas · NumPy · Git · GitHub · VS Code</sub>
 
 </div>
 
