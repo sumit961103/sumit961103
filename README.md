@@ -129,16 +129,7 @@ class Sumit:
 
 <h2>📊 GitHub Activity</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sumit961103&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9" height="170" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit961103&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="170" alt="Top Languages"/>
-
-<br><br>
-
 <img src="https://streak-stats.demolab.com/?user=sumit961103&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" width="75%" alt="GitHub Streak"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumit961103&bg_color=0D1117&color=58A6FF&line=3FB950&point=BC8CFF&area=true&hide_border=true" width="95%" alt="Contribution Graph"/>
 
 </div>
 
